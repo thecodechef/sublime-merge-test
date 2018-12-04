@@ -7,3 +7,10 @@ port: 4200
 author: 
   name: thecodechef
   email: cyberchefjay@gmail.com
+
+css:
+  bulma:
+    cdn: "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css"
+js:  
+  font_awesome:
+    cdn: "https://use.fontawesome.com/releases/v5.3.1/js/all.js"
