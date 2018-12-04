@@ -1,6 +1,7 @@
 # CHANGELOG
 
 ## [1.0.2]
+  - Added `jquery` to repository
   - Added `main.css` & `main.js` to repository
   - Added `navbar.html` to repository
   - Added `bulma-css` & `font-awesome` to repository
