@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## [1.0.2]
+  - Added `_data`,`_posts`,`_includes`,`_sass` directories to repository
 
 ## [1.0.1]
   - Added `index.md` to repository
