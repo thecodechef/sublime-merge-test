@@ -5,9 +5,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<title>{{ site.title }}</title>
 	<link rel="stylesheet" type="text/css" href="{{ site.css.bulma.cdn }}">
+	<link rel="stylesheet" type="text/css" href="{{ site.css.main.file }}">
 </head>
 <body>
+  {%- include navbar.html -%}
   {{ content }}
   <script defer src="{{ site.js.font_awesome.cdn }}"></script>
+  <script defer src="{{ site.js.jquery.cdn }}" integrity="{{ site.jquery.integrity }}" crossorigin="{{ site.jquery.origin }}"></script>
+  <script src="{{ site.js.main.file }}"></script>
 </body>
 </html>

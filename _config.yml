@@ -11,6 +11,14 @@ author:
 css:
   bulma:
     cdn: "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css"
+  main:
+    file: "assets/css/main.css"
 js:  
   font_awesome:
     cdn: "https://use.fontawesome.com/releases/v5.3.1/js/all.js"
+  jquery:
+    cdn: "https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity: "sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    origin: "anonymous"
+  main:
+    file: "assets/js/main.js"
