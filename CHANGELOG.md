@@ -1,6 +1,7 @@
 # CHANGELOG
 
 ## [1.0.2]
+  - Added `navbar.html` to repository
   - Added `bulma-css` & `font-awesome` to repository
   - Added `_data`,`_posts`,`_includes`,`_sass` directories to repository
 
